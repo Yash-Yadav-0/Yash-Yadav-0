@@ -10,7 +10,7 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Yash-Yadav-0&label=Profile%20views&color=0e75b6&style=flat" alt="yash" />
+<img src="https://komarev.com/ghpvc/?username=Yash-Yadav-0&label=Profile%20views&color=0e75b6&style=flat" alt="yash" /><br>
  <a href="https://www.linkedin.com/in/yashyadav0/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
