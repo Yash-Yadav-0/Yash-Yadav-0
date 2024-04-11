@@ -4,12 +4,12 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/smearing.yash619/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashyadav0/) 
 
 <p align="center">- 👨‍💻 Visit my portfolio site at <a href="https://www.yashyadav.com.np/" target="blank">yashyadav.com.np</a> </p>
 <p align="center">- 📫 How to reach me: <a href="mailto:yashsnab0@gmail.com">@Gmail</a> </p>
 
-<img src="https://komarev.com/ghpvc/?username=Yash-Yadav-0&label=Profile%20views&color=0e75b6&style=flat" alt="empswarup" />
+
+<div><img src="https://komarev.com/ghpvc/?username=Yash-Yadav-0&label=Profile%20views&color=0e75b6&style=flat" alt="empswarup" />[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/smearing.yash619/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashyadav0/) </div>
 
 # 💻 Tools and Technologies:
 <div align="center">
