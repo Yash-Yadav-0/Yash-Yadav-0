@@ -15,15 +15,15 @@
 <div align="center">
 <h3>Languages</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c#,java,cpp,c,html,css,javascript,python&perline=4" />
+    <img src="https://skillicons.dev/icons?i=cs,c,cpp,js,py,html,css,sass&perline=4" />
   </a>
 <h3>Frameworks & Libraries</h3>
   <a href="https://skillicons.dev">
-    <img src=https://skillicons.dev/icons?i=react,next,django,express,tailwind,nodejs,firebase,vite,&perline=4" />
+    <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,django,nodejs,bootstrap,materialui,vite,redux,firebase,redis,sqlite,postgres,mysql,rabbitmq,&perline=6" />
   </a>  
 <h3>Tools of Trade </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mongodb,ps,vscode,vercel,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=nginx,npm,yarn,docker,githubactions,kubernetes,aws,azure,postman,git,gitlab,visualstudio,vscode&perline=5" />
   </a>
 </div>
 
