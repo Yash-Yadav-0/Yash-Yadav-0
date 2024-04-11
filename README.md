@@ -9,8 +9,12 @@
 <p align="center">- 📫 How to reach me: <a href="mailto:yashsnab0@gmail.com">@Gmail</a> </p>
 
 
-<img src="https://komarev.com/ghpvc/?username=Yash-Yadav-0&label=Profile%20views&color=0e75b6&style=flat" alt="empswarup" />
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/smearing.yash619/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashyadav0/)
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Yash-Yadav-0&label=Profile%20views&color=0e75b6&style=flat" alt="yash" />
+ <a href="https://www.linkedin.com/in/yashyadav0/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</div>
 
 # 💻 Tools and Technologies:
 <div align="center">
