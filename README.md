@@ -24,7 +24,7 @@
   </a>
 <h3>Frameworks & Libraries</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,django,nodejs,bootstrap,materialui,vite,redux,firebase,redis,sqlite,postgres,mysql,rabbitmq,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,django,nodejs,bootstrap,materialui,vite,redux,firebase,redis,sqlite,postgres,rabbitmq,&perline=6" />
   </a>  
 <h3>Tools of Trade </h3>
   <a href="https://skillicons.dev">
